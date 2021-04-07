@@ -1,0 +1,5 @@
+﻿  the big thing.cpp
+C:\Users\User\Desktop\the big thing\the big thing\the big thing.cpp(293,33): warning C4267: "=": konwersja z "size_t" do "char", możliwa utrata danych
+C:\Users\User\Desktop\the big thing\the big thing\the big thing.cpp(318,37): warning C4267: "=": konwersja z "size_t" do "char", możliwa utrata danych
+C:\Users\User\Desktop\the big thing\the big thing\the big thing.cpp(343,37): warning C4267: "=": konwersja z "size_t" do "char", możliwa utrata danych
+  the big thing.vcxproj -> C:\Users\User\Desktop\the big thing\Debug\the big thing.exe

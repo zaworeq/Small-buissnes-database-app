@@ -1,0 +1,3 @@
+ID: E1 Sprzedawca-Katarzyna-Dyrda-4000
+ID: E2 Kierownik-Kamil-Grzesik-8000
+ID: E3 Wlasciciel-Wiktor-Zaworski-15000
